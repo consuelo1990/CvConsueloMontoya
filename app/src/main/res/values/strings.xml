@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">cvconsuelo</string>
+    <string name="calendario">06/11/1990</string>
+    <string name="phone">+51 942858885</string>
+    <string name="address">Moyobamba-Perú</string>
+    <string name="email">akemyni@gmail.com</string>
+    <string name="experiencia">Experiencie</string>
+    <string name="inter">Interest</string>
+    <string name="fondo">Background</string>
+    <string name="port">Portafolio</string>
+    <string name="bac">Background</string>
+    <string name="Consuelo">Consuelo Montoya</string>
+</resources>
